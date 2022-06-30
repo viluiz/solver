@@ -2,7 +2,7 @@
 
 This repository is the official implementation of: 
 
-***A Machine Learning Acceleration for Nonlinear PDE Solvers*** ICML submitted paper.
+[Machine learning acceleration for nonlinear solvers applied to multiphase porous media flow](https://www.sciencedirect.com/science/article/pii/S0045782521003200). 
 
 ## Directories:
 
@@ -19,7 +19,7 @@ To install requirements:
 ```setup
  $ conda env create -f environment.yml 
  $ conda activate py3ml
- $ python -m ipykernel install --user --name=python3
+ $ python -m ipykernel install --user --name=python3 (opitional)
 ```
 
 Finally, start Jupyter:
