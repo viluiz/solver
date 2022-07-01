@@ -1,4 +1,4 @@
-# A Machine Learning Acceleration for Nonlinear PDE Solvers
+# A Machine Learning Acceleration for Nonlinear PDE Solvers - applied to multiphase porous media flow
 
 This repository is the official implementation of: 
 
