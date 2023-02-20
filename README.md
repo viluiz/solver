@@ -3,6 +3,9 @@
 This repository is the official implementation of: 
 
 [Machine learning acceleration for nonlinear solvers applied to multiphase porous media flow](https://www.sciencedirect.com/science/article/pii/S0045782521003200). 
+and
+
+Adaptive Learning Acceleration for Nonlinear PDE Solvers (Submitted to ICML 2023)
 
 ## Directories:
 
