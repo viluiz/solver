@@ -6,7 +6,7 @@ This repository is the official implementation of:
 
 and
 
-Adaptive Learning Acceleration for Nonlinear PDE Solvers (Submitted)
+Adaptive Machine Learning Acceleration for Nonlinear PDE Solvers (Submitted)
 
 ## Directories:
 
