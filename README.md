@@ -26,12 +26,6 @@ To install requirements:
  $ python -m ipykernel install --user --name=python3 (opitional)
 ```
 
-Finally, start Jupyter:
-
-```start
- $ jupyter notebook
-```
-
 ### Dataset
 
 To download the dataset follow the instructions in the directory **dataset**.
