@@ -6,7 +6,7 @@ This repository is the official implementation of:
 
 and
 
-Adaptive learning to accelerate nonlinear PDE solvers: applied to multiphase porous media flow (Submitted)
+Online learning to accelerate nonlinear PDE solvers: applied to multiphase porous media flow (Submitted)
 
 ## Directories:
 
